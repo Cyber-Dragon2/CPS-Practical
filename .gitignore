@@ -1,0 +1,6 @@
+*/
+*.exe
+*.py
+*.txt
+debug*.c
+prac*.c
